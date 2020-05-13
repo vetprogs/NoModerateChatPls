@@ -1,5 +1,5 @@
 #Автор https://github.com/vetprogs
-#По вопросам и предложениям:  vetprogs(сoбakа)etlgr.com
+#По вопросам и предложениям:  vetprogs@rambler.ru
 #Внимание - использование подобных скриптов может привести к бану Вашего телеграмм аккаунта!
 
 from telethon import TelegramClient, sync, events
